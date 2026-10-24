@@ -1,7 +1,7 @@
 export const content = {
   brandName: "MẢNH DI SẢN",
   tagline: "Tinh hoa sơn mài Việt - Dấu ấn của sự trân trọng",
-  logoPath: "public/images/logo.jpg",
+  logoPath: "/images/logo.jpg",
   certificatePath: "",
   certificateAlt: "Giấy chứng nhận sản phẩm hoặc nghệ nhân",
   thankYouTitle: "Trân trọng tri ân",
